@@ -1,0 +1,40 @@
+#Categorias{
+    width: 260px;
+    font-family: sans-serif;
+}
+
+/* Pantallas grandes */
+@media (max-width:1600px){
+    #Categorias{
+        width: 130px;
+        font-family: sans-serif;
+    }
+    
+}
+
+/* Pantallas anchas */
+@media (max-width:1200px){
+    #Categorias{
+        width: 190px;
+        font-family: sans-serif;
+    }
+    
+}
+
+/* para tablets grandes */
+@media (max-width:991px){
+    #Categorias{
+        width: 690px;
+        font-family: sans-serif;
+    }
+    
+}
+
+  /* pantallas medianas */
+
+  @media (max-width:768px){
+    #Categorias{
+        width: 460px;
+        font-family: sans-serif;
+    }
+  }

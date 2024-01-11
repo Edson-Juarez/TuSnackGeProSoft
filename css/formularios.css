@@ -1,0 +1,43 @@
+body{
+    font-family: Arial;
+    background-color:#15B5B0; 
+    box-sizing: border-box;
+}
+form{
+    background-color: white;
+    border-radius: 4px;
+    border: #00b585;
+    color:black;
+    padding: 10px;
+    margin: 0 auto;
+    width: 300px;
+}
+input, textarea{
+    
+    border: 0;
+    outline: none;
+    width: 280px;
+    
+}
+.field{
+border: solid 1.9px  #05445E;
+border-radius: 1px;
+font-size: medium;
+font-family: Arial;
+padding: 10px;
+
+}
+.field:focus{
+    border-top: #00b585;
+    font-size: medium;
+
+}
+.center-content{
+    text-align: center;
+    font-size: medium;
+   border: #00b585;
+   color :white;
+    padding:5px;
+    background: #05445E;
+
+}
